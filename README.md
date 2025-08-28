@@ -1,16 +1,49 @@
-# Trusten Lehmann-Karp
+# 👋 Hi, I'm Trusten Lehmann-Karp
 
-Engineering @ Harvey Mudd. I build applied AI products and ML infrastructure: LLM-powered knowledge systems, semantic memory (pgvector), and full-stack apps (FastAPI + Next.js).
+📍 Engineering @ Harvey Mudd College, B.S. Engineering (Computer / EE), Minor in Economics  
+⚡ Applied AI + Full-Stack Developer | Building ML infrastructure & products  
 
-**Highlights**
-- **Thrust** – AI knowledge base for consultants (FastAPI, Next.js, Supabase, OpenAI, pgvector).
-- **Persisto** – Semantic memory SDK (FastAPI + Supabase + pgvector), Python client.
-- **xG Model** – Expected Value model for soccer data analytics (scikit-learn).
-- **Equity Prediction Pipeline** – Time-series ML + backtesting for large-caps.
+---
 
-**Currently seeking:** Summer ’26 internships in Applied AI / AI Infra / ML Product Engineering.
+## 🚀 What I Build
+I focus on **applied AI systems, LLM tooling, and full-stack applications** — blending model development, data pipelines, and user-facing products.
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/trustenlk) · [Email](mailto:tlehmannkarp@g.hmc.edu)
+- **[Thrust](https://github.com/trusten5/ai-RAG-pdf-knowledgebase)]** – AI knowledge base for consultants  
+  → Summarization, semantic memory (pgvector), retrieval-augmented LLM assistants  
+  → Tech: FastAPI, Next.js, Supabase, OpenAI APIs  
+
+- **[Persisto](https://github.com/trusten5/persisto-smaas-python-sdk)** – Semantic memory-as-a-service  
+  → Python SDK + FastAPI backend with pgvector; save/query/delete embeddings at scale  
+  → Focus: developer-first APIs, usage logging, and retry logic  
+
+- **xG Model** – Expected Value model for soccer data analytics  
+  → End-to-end ML pipeline to engineer spatial features, train logistic regression models, and generate dynamic heatmap visualizations for data insights 
+  → Python, sci-kit learn, Marplotlib  
+
+- **Equity Prediction Pipeline** – Time-series ML + backtesting  
+  → Engineered 20+ macro features; trained LR, RF, XGBoost with time-aware CV  
+  → Backtested S&P 500 subsets; achieved Sharpe > 1 on select horizons  
+
+---
+
+## 🛠️ Skills
+**Languages & Tools**: Python, SQL, scikit-learn, XGBoost, Pandas, NumPy, FastAPI, Next.js, Supabase, pgvector, OpenAI APIs, Git, Jupyter  
+**ML/AI**: Logistic Regression, Random Forest, BERT, LLMs, Prompt Engineering, Spatial-Temporal Modeling, Time Series  
+**Other**: Data Engineering, Web Scraping, Vector Search, Backtesting, Model Evaluation (AUC, Log Loss)  
+
+---
+
+## 📌 Currently
+- 📚 Sophomore at Harvey Mudd, pursuing engineering + economics  
+- 🏗️ Building: Experimenting with personal and professional projects for hands-on experience
+- 🎯 Seeking **Summer ’26 internships** in **Applied AI, ML Infrastructure, or AI Product Engineering**  
+
+---
+
+## 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/trustenlk)  
+- [GitHub](https://github.com/trusten5)  
+- 📧 tlehmannkarp@g.hmc.edu
 
 
 <!--
