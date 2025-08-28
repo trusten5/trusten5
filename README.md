@@ -18,7 +18,7 @@ I focus on **applied AI systems, LLM tooling, and full-stack applications** — 
 
 - **xG Model** – Expected Value model for soccer data analytics  
   → End-to-end ML pipeline to engineer spatial features, train logistic regression models, and generate dynamic heatmap visualizations for data insights 
-  → Python, sci-kit learn, Marplotlib  
+  → Python, scikit-learn, matplotlib  
 
 - **Equity Prediction Pipeline** – Time-series ML + backtesting  
   → Engineered 20+ macro features; trained LR, RF, XGBoost with time-aware CV  
