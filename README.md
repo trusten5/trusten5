@@ -8,7 +8,7 @@
 ## 🚀 What I Build
 I focus on **applied AI systems, LLM tooling, and full-stack applications** — blending model development, data pipelines, and user-facing products.
 
-- **[Thrust](https://github.com/trusten5/ai-RAG-pdf-knowledgebase)]** – AI knowledge base for consultants  
+- **[Thrust](https://github.com/trusten5/ai-RAG-pdf-knowledgebase)** – AI knowledge base for consultants  
   → Summarization, semantic memory (pgvector), retrieval-augmented LLM assistants  
   → Tech: FastAPI, Next.js, Supabase, OpenAI APIs  
 
